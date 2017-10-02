@@ -1,6 +1,6 @@
 
 # Максим Штейников
-###Мои домашние задания
+### Мои домашние задания
 
 [Урок 4](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_4 "Знакомство с основами HTML") - Знакомство с основами HTML
 
