@@ -21,3 +21,6 @@
 [Урок 13](https://github.com/mshteynikov/mshteynikov.github.io/blob/master/lesson_13/project/src/index.html "Адаптивная верстка") - Адаптивная верстка
 
 [Урок 13.1](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_13.1/project/src "Практика. Часть 1") - Практика. Часть 1
+
+[Урок 14](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_14 "Подключение шрифтов") - Подключение шрифтов
+
