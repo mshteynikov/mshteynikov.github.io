@@ -17,3 +17,5 @@
 [Урок 10](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_10 "Препроцессор LESS для CSS") - репроцессор LESS для CSS
 
 [Урок 11](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_11 "Сниппеты") - Сниппеты
+
+[Урок 13](https://github.com/mshteynikov/mshteynikov.github.io/blob/master/lesson_13/project/src/index.html "Адаптивная верстка") - Адаптивная верстка
