@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20161013 at Tue Nov  8 23:07:49 2011
+ By ,,,
+Copyright (c) 2010-2011 by tyPoland Lukasz Dziedzic with Reserved Font Name "Lato". Licensed under the SIL Open Font License, Version 1.1.
+</metadata>
+<defs>
+<font id="Lato-Regular" horiz-adv-x="0" >
+  <font-face 
+    font-family="Lato"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="2000"
+    panose-1="2 15 5 2 2 2 4 3 2 3"
+    ascent="1610"
+    descent="-390"
+    bbox="45 0 1019 1433"
+    underline-thickness="120"
+    underline-position="-320"
+    unicode-range="U+0020-0020"
+  />
+<missing-glyph horiz-adv-x="1063" 
+d="M250 1141q25 22 53.5 41t62.5 33.5t73.5 23t85.5 8.5q63 0 114.5 -17.5t88 -49.5t57 -77.5t20.5 -101.5q0 -55 -15 -95t-37.5 -69.5t-49.5 -51t-51 -40.5t-41.5 -37.5t-21.5 -41.5l-17 -105h-122l-12 117q-4 34 9 59.5t35.5 47t50 41.5t51.5 43t40 52t16 69
+q0 51 -36.5 81t-93.5 30q-41 0 -69 -9t-48 -20t-34 -20t-25 -9q-25 0 -37 22zM396 292q0 47 31 79t79 32q22 0 42 -8.5t34.5 -23.5t23 -35.5t8.5 -43.5t-8.5 -43t-23 -35t-34.5 -23.5t-42 -8.5q-48 0 -79 31.5t-31 78.5zM45 1433h974v-1433h-974v1433zM95 54h867v1324h-867
+v-1324z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="1063" 
+d="M250 1141q25 22 53.5 41t62.5 33.5t73.5 23t85.5 8.5q63 0 114.5 -17.5t88 -49.5t57 -77.5t20.5 -101.5q0 -55 -15 -95t-37.5 -69.5t-49.5 -51t-51 -40.5t-41.5 -37.5t-21.5 -41.5l-17 -105h-122l-12 117q-4 34 9 59.5t35.5 47t50 41.5t51.5 43t40 52t16 69
+q0 51 -36.5 81t-93.5 30q-41 0 -69 -9t-48 -20t-34 -20t-25 -9q-25 0 -37 22zM396 292q0 47 31 79t79 32q22 0 42 -8.5t34.5 -23.5t23 -35.5t8.5 -43.5t-8.5 -43t-23 -35t-34.5 -23.5t-42 -8.5q-48 0 -79 31.5t-31 78.5zM45 1433h974v-1433h-974v1433zM95 54h867v1324h-867
+v-1324z" />
+    <glyph glyph-name=".null" 
+ />
+    <glyph glyph-name="nonmarkingreturn" 
+ />
+    <glyph glyph-name="NULL" 
+ />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="386" 
+ />
+  </font>
+</defs></svg>
