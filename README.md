@@ -27,3 +27,5 @@
 [Урок 14.1](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_14.1/project/src "Практика. Часть 2") - Практика. Часть 2
 
 [Урок 15](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_15/project "Псевдоклассы и псевдоэлементы") - Псевдоклассы и псевдоэлементы
+
+[Урок 15.1](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_15.1/project/src "Практика. Часть 2") - Практика. Часть 2
