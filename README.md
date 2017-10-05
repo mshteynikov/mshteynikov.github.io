@@ -25,3 +25,5 @@
 [Урок 14](https://github.com/mshteynikov/mshteynikov.github.io/blob/master/lesson_14/index.html "Подключение шрифтов") - Подключение шрифтов
 
 [Урок 14.1](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_14.1/project/src "Практика. Часть 2") - Практика. Часть 2
+
+[Урок 15](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_15/project "Псевдоклассы и псевдоэлементы") - Псевдоклассы и псевдоэлементы
