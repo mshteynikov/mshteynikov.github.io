@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Всплывающие окна</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+	<div class="container">
+		<button class="btn btn-success" data-target="#my-modal" data-toggle="modal">Удалить файл</button>
+	</div>
+		
+		<div class="modal fade" id="my-modal" style="display: none;">
+		  <div class="modal-dialog">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+		        <h4 class="modal-title"> Удаление ...</h4>
+		      </div>
+		      <div class="modal-body">
+		        <p>Вы действительно хотите удалить файл?</p>
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-default" data-dismiss="modal">Да</button>
+		        <button type="button" class="btn btn-primary">Нет</button>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>

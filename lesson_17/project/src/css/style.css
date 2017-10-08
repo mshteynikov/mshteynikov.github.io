@@ -1,0 +1,31 @@
+button {
+  display: inline-block;
+  margin: 20px;
+}
+.modal-header {
+  background-color: #d35959;
+}
+.close {
+  background-color: #000000;
+  color: #fff;
+  opacity: 1;
+}
+.modal-title {
+  font-weight: bold;
+  font-size: 20px;
+  color: #fff;
+}
+.btn {
+  border: none;
+}
+.btn-default,
+.btn-primary {
+  width: 60px;
+  color: #fff;
+}
+.btn-default {
+  background-color: #74a859;
+}
+.btn-primary {
+  background-color: #d35959;
+}
