@@ -29,3 +29,6 @@
 [Урок 15](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_15/project "Псевдоклассы и псевдоэлементы") - Псевдоклассы и псевдоэлементы
 
 [Урок 15.1](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_15.1/project/src "Практика. Часть 3") - Практика. Часть 3
+
+[Урок 16](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_16/project/src "Слайдер на сайте") - Слайдер на сайте
+
