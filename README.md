@@ -32,7 +32,7 @@
 
 [Урок 16](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_16/project/src "Слайдер на сайте") - Слайдер на сайте
 
-[Урок 16.1]( "Практика. Часть 4") - Практика. Часть 4
+[Урок 16.1](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_16.1/project/src "Практика. Часть 4") - Практика. Часть 4
 
 [Урок 17](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_17/project/src "Всплывающие окна") - Всплывающие окна
 
