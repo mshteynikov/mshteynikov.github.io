@@ -1,0 +1,131 @@
+@font-face {
+  font-family: "MyriadProRegular";
+  src: url("../fonts/MyriadProRegular.eot");
+  src: url("../fonts/MyriadProRegular.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/MyriadProRegular.woff") format("woff"),
+  url("../fonts/MyriadProRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+body {
+  font-family: "MyriadProRegular";
+  background: #000;
+  color: #fff;
+  font-size: 24px;
+}
+
+input:focus {
+  outline: none;
+}
+input::-webkit-input-placeholder {
+  color: #fff;
+}
+input::-moz-placeholder {
+  color: #fff;
+}
+
+
+.main-form {
+  position: relative;;
+  width: 630px;
+  margin: 8% auto;
+}
+
+.form {
+  padding: 60px 60px 30px 45px;
+  border: 20px solid #047ca0; 
+  border-radius: 4px;
+}
+
+.form-input {
+  display: block;
+  width: 100%;
+  background-color: #1b1a1a;
+  border-radius: 3px;
+  border: none;
+  color: #fff;
+  padding: 10px 15px;
+  margin-bottom: 30px;
+}
+
+.form-forget {
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+.form-forget a {
+  color: #c51f03;
+  padding-left: 20px;
+}
+.form-forget a:hover {
+  text-decoration: underline;
+}
+
+.form-remember {
+  display: inline-block;
+  font-size: 15px;
+  color: #6f6d6d;
+  padding-left: 20px;
+}
+.form-remember input {
+  float: left;
+}
+.form-remember label{
+  margin-left: 10px;
+}
+
+.form-button {
+  float: right;
+  font-size: 24px;
+  background-color: #bc0702;
+  border: none;
+  border-radius: 0;
+  padding: 4px 30px;
+  box-shadow: 30px 7px 70px rgba(0, 0, 0, .5) inset;
+}
+
+.form-registration {
+  font-size: 24px;
+  background-color: #bc0702;
+  border: none;
+  border-radius: 0;
+  padding: 10px 30px;
+  box-shadow: 30px 7px 70px rgba(0, 0, 0, .5) inset;
+}
+
+
+
+
+/* Переопределенные cтили Bootstrap */
+
+.nav {
+  position: absolute;
+  top: -39px;
+  left: 30px;
+}
+
+.nav-tabs {
+  border-bottom: none;
+}
+
+.nav>li {
+  margin-right: 10px;
+}
+
+.nav>li>a {
+  padding: 3px 25px;
+  color: #080808;
+  background: #fff;
+  border-radius: 5px 5px 0 0;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+  background-color: #047ca0;
+  border: none;
+  color: #fff;
+}
+
+.tab-content {
+  position: relative;
+  z-index: 5;
+}
