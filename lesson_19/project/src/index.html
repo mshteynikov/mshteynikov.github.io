@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Форма + табы</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+
+<div class="container">
+	
+
+<div class="main-form">
+
+  <!-- Nav tabs -->
+	<ul class="nav nav-tabs">
+		<li  class="active">
+			<a class="wow rotateInDownLeft" data-wow-delay="0.2s" data-wow-duration="0.2s" href="#enter" data-toggle="tab">Вход</a>
+		</li>
+		<li>
+			<a class="wow rotateInDownLeft" data-wow-delay="0.5s" data-wow-duration="0.5s" href="#registration" data-toggle="tab">Регистрация</a>
+		</li>
+	</ul>
+
+	<!-- Tab panes -->
+	<div class="tab-content">
+
+		<div class="tab-pane active" id="enter">
+			
+			<div class="form">
+				<form action="#" method="">
+					<input class="form-input  wow bounceInLeft" data-wow-duration="1.5s" type="text" name="" placeholder="Ваше имя">
+					<input class="form-input  wow bounceInLeft" data-wow-duration="1.8s" type="password" name="" placeholder="Пароль">
+					<p class="form-forget wow rollIn"><a href="#">Забыли пароль?</a></p>
+					<p class="form-remember wow zoomInUp"><input id="remember" type="checkbox" name="" value="yes"><label for="remember">Напомнить мне</label></p>
+					<button class="form-button btn wow tada">Войти</button>
+				</form>
+			</div>
+
+		</div>
+
+		<div  class="tab-pane" id="registration">
+			
+			<div class="form">
+				<form action="#" method="">
+					<input class="form-input" type="text" name="" placeholder="Ваше имя">
+					<input class="form-input" type="password" name="" placeholder="Пароль">
+					<button class="form-registration btn">Зарегистрироваться</button>
+				</form>
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/wow.min.js"></script>
+
+	<script>
+		$(document).ready(function() {
+			
+			var wow = new WOW();
+			wow.init();			
+
+
+		});
+	</script>
+
+</body>
+</html>
