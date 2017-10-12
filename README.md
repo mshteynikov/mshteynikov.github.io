@@ -38,9 +38,9 @@
 
 [Урок 17.1](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_17.1/project/src "Практика. Часть 5") - Практика. Часть 5
 
-[Урок 18 - accordion](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_18/accordion/project/src "Табы и аккордеон на сайте") - Табы и аккордеон на сайте
+[Урок 18 - accordion](mshteynikov.github.io/lesson_18/accordion/project/src/ "Табы и аккордеон на сайте") - Табы и аккордеон на сайте
 
-[Урок 18 - tabs](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_18/tabs/project/src "Табы и аккордеон на сайте") - Табы и аккордеон на сайте
+[Урок 18 - tabs](mshteynikov.github.io/lesson_18/tabs/project/src/ "Табы и аккордеон на сайте") - Табы и аккордеон на сайте
 
-[Урок 19](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_19/project/src "Анимация на CSS3") - Анимация на CSS3
+[Урок 19](mshteynikov.github.io/lesson_19/project/src/ "Анимация на CSS3") - Анимация на CSS3
 
