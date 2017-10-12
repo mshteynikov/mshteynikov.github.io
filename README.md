@@ -44,5 +44,3 @@
 
 [Урок 19](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_19/project/src "Анимация на CSS3") - Анимация на CSS3
 
-
-[Урок 17](https://github.com/mshteynikov/mshteynikov.github.io/tree/master/lesson_17/project/src "Всплывающие окна") - Всплывающие окна
