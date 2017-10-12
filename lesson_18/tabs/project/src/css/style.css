@@ -9,8 +9,9 @@
 }
 
 body {
+  background: url("../img/bg.png") no-repeat center center fixed;
+  background-size: cover;
   font-family: "MyriadProRegular";
-  background: #000;
   color: #fff;
   font-size: 24px;
 }
@@ -126,6 +127,21 @@ input::-moz-placeholder {
 }
 
 .tab-content {
+  background: #000;
   position: relative;
   z-index: 5;
+}
+
+.form-button {
+position: absolute;
+  right: -16px;
+  bottom: 30px;
+  background: url('../img/ribbon.png') center center no-repeat;
+  background-size: cover;
+  display: block;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  border: none;
+  padding: 0 30px 12px 30px;
 }
