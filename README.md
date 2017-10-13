@@ -46,7 +46,7 @@
 
 [Урок 19](https://mshteynikov.github.io/lesson_19/project/src/ "Анимация на CSS3") - Анимация на CSS3
 
-[Урок 19.1](https:// "Практика. Часть 6") - Практика. Часть 6
+[Урок 19.1](https://mshteynikov.github.io/lesson_19.1/project/src/ "Практика. Часть 6") - Практика. Часть 6
 
 [Урок 20](https://mshteynikov.github.io/lesson_20/project/src/ "Видео-фон на сайте") - Видео-фон на сайте
 
