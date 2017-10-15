@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    <title>Наши контакты</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Подключение API яндекс-карт -->
+    <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"> 
+
+    </script>
+</head>
+<body>
+    
+    
+    <div class="container">
+        
+        <div class="contacts">
+
+            <div class="contacts-map" id="map">
+            </div>
+
+            <div class="contacts-text">
+                <h2>Контакты</h2>
+                <p>г. Москва, <br> Варшавское шоссе, дом 16, <br> корпус 1, офис №8</p>
+                <p>580 метров от ст. Верхние котлы</p>
+                <p>+7 (499) 409-87-25</p>
+                <p><a href="mailto:info@vashsite.ru">info@vashsite.ru</a></p>
+            </div>
+            
+            <div class="contact-footer">
+
+                    <div class="col-md-3 col-md-offset-1 text-left">
+                        <div class="logo-footer">
+                            <img src="img/logo.png" alt="logo">
+                            <span>Технологии <br> Пожарной <br> Безопасности</span>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="col-md-4">
+                        <div class="sertificate">
+                            <div class="sertificate-block">
+                                <p>Сертификация пожарной безопаснсти <br> Работаем по России и странам СНГ</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="community">
+                            <strong class="phone">+7 (499) 409-87-25</strong>
+                            <p>г. Москва, Варшавское шоссе, <br> дом 16, корпус 1, офис №8</p>
+                        </div>
+                    </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+        
+    <script>
+        
+        ymaps.ready(init);
+           var myMap;
+
+           function init(){     
+               myMap = new ymaps.Map("map", {
+                   center: [55.693198, 37.615149],
+                   zoom: 16,
+                   controls: ['fullscreenControl']
+               });
+
+               myPlacemark = new ymaps.Placemark([55.693297, 37.618228], { 
+                   hintContent: 'Мы находимся здесь', 
+                   balloonContent:  '<strong> Варшавское шоссе <br>, дом 16 корпус 1</strong>'
+               }, {
+                   iconLayout: 'default#image',
+                   iconImageHref: 'img/remark-ico.png',
+                   iconImageSize: [40, 40],
+                   iconImageOffset: [-23, -42]
+               });
+
+               myMap.geoObjects.add(myPlacemark);   
+
+               //  Запрещаем масштабирование колесом мыши
+               myMap.behaviors.disable('scrollZoom');
+
+               // Разрешаем масштабирование колесом мыши при клике на карту
+               myMap.events.add('click', function () {
+                  myMap.behaviors.enable('scrollZoom');
+               });
+
+               
+           }
+
+
+    </script>
+
+
+
+</body>
+</html>
