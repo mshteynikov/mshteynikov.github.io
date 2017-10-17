@@ -58,4 +58,4 @@
 
 [Урок 22](https://mshteynikov.github.io/lesson_22/project/src/ "Гео-карты для сайта") - Гео-карты для сайта
 
-[Урок 22.1](https:// "Практика. Часть 9") - Практика. Часть 9
+[Урок 22.1](https://mshteynikov.github.io/lesson_22.1/project/src/ "Практика. Часть 9") - Практика. Часть 9
