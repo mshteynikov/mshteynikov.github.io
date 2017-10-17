@@ -54,7 +54,7 @@
 
 [Урок 21](https://mshteynikov.github.io/lesson_21/ "Parallax эффект для сайта") - Parallax эффект для сайта
 
-[Урок 21.1](https:// "Практика. Часть 8") - Практика. Часть 8
+[Урок 21.1](https://mshteynikov.github.io/lesson_21.1/project/src/ "Практика. Часть 8") - Практика. Часть 8
 
 [Урок 22](https://mshteynikov.github.io/lesson_22/project/src/ "Гео-карты для сайта") - Гео-карты для сайта
 
